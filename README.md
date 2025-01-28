@@ -1,16 +1,17 @@
-## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GladerJ)
-<!--
-**GladerJ/GladerJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I’m Glader
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <h3>Hi there! 👋 I’m <strong>Glader</strong>.</h3>
+      <p>👨‍💻 I’m passionate about coding, problem-solving, and exploring new technologies. 🚀</p>
+      <p>💻 Languages I work with include <strong>Java</strong>, <strong>C/C++</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>. 🛠️</p>
+      <p>📧 Feel free to reach out to me at <a href="mailto:1@mygld.top">1@mygld.top</a>!</p>
+      <p>✨ Let’s create something amazing together! 🌟</p>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GladerJ" alt="Glader's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GladerJ" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
