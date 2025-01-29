@@ -5,7 +5,7 @@
 📧 Feel free to reach out to me at <a href="mailto:1@mygld.top">1@mygld.top</a>! \
 ✨ Let’s create something amazing together! 🌟
 
-![Glader's GitHub stats](https://github-readme-stats.vercel.app/api?username=GladerJ&count_private=true&show_icons=true&theme=tokyonight)
+![Glader's GitHub stats](https://github-readme-stats.vercel.app/api?username=GladerJ&count_private=true&show_icons=true&theme=tokyonight&rank_icon=percentile)
 
 
 
