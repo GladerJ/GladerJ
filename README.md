@@ -9,7 +9,7 @@
 
 
 
-# 你好 👋 我是 Clader
+# 你好 👋 我是 Glader
 
 👨‍💻 我热爱编程，喜欢解决问题并探索新技术。🚀  \
 💻 我常用的编程语言有 <strong>Java</strong>、<strong>C/C++</strong>、<strong>Python</strong> 和 <strong>JavaScript</strong>。🛠️\
