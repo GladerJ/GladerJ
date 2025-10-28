@@ -7,7 +7,7 @@
 
 ![Glader's GitHub stats](https://glader-github.netlify.app/api?username=GladerJ&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&rank_icon=percentile)
 
-![Glader’s Wakapi Stats (This Week)](https://github-readme-stats.vercel.app/api/wakatime?username=glader&api_domain=wakapi.mygld.top&range=last_7_days&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28This+Week%29&layout=compact&cache_buster=1732900000)
+![Glader’s Wakapi Stats (This Week)](https://github-readme-stats.vercel.app/api/wakatime?username=glader&api_domain=wakapi.mygld.top&range=last_7_days&layout=compact&mode=total&theme=tokyonight&custom_title=Glader%E2%80%99s+Wakapi+Stats+%28This+Week%29)
 
 
 # 你好 👋 我是 Glader
